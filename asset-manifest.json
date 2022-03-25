@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/speech/static/css/main.11c7e5aa.css",
+    "main.js": "/speech/static/js/main.1f465594.js",
+    "index.html": "/speech/index.html",
+    "main.11c7e5aa.css.map": "/speech/static/css/main.11c7e5aa.css.map",
+    "main.1f465594.js.map": "/speech/static/js/main.1f465594.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c7e5aa.css",
+    "static/js/main.1f465594.js"
+  ]
+}
